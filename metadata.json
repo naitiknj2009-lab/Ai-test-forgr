@@ -1,0 +1,6 @@
+{
+  "name": "AI TestForge",
+  "description": "AI-powered question extraction, question generation, and test-taking exam simulator for students with OCR, analytics, and mistake notebook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

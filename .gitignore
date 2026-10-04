@@ -1,0 +1,23 @@
+*.iml
+.gradle
+.kotlin
+/local.properties
+local.properties
+.env
+.env.local
+
+# Keystores & Credentials
+*.jks
+*.keystore
+debug.keystore
+my-upload-key.jks
+google-services.json
+
+# IDE & OS
+/.idea/
+.DS_Store
+/build
+app/build
+/captures
+.externalNativeBuild
+.cxx
